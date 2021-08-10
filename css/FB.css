@@ -1,0 +1,235 @@
+/* Header/Footer #26292E */
+ /* main #E7718B */
+
+ /* icons */
+
+
+ .icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+  }
+  
+  /* ==========================================
+  Single-colored icons can be modified like so:
+  .icon-name {
+    font-size: 32px;
+    color: red;
+  }
+  ========================================== */
+  
+.icon-facebook {
+      color: #000;
+      font-size: 15px;
+}
+
+.icon-twitter {
+    color: #000;
+    font-size: 15px;
+}
+
+.icon-rss {
+    color: #000;
+    font-size: 15px;
+}
+
+.icon-cloud{
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        stroke-width: 0;
+        stroke: currentColor;
+        fill: currentColor;
+        padding: 5px;
+}
+
+.icon-bubbles {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    padding: 5px;
+  }
+ 
+.icon-star {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    padding: 5px;
+  }
+
+.button {
+   background: #424242;
+   color: #fff;
+   padding: 10px;
+}
+
+.header a {
+    display:flex;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+* { box-sizing: border-box;}
+
+.clear {
+    display: none;
+}
+
+.header {
+  background: #26292e;
+}
+
+h1 {
+   color: #fff;
+    font-family:'butterfly kids', cursive;
+}
+
+.top-nav {
+    padding-top: 8px;
+}
+
+.social-list {
+   width: 180px;
+   list-style: none;
+}
+
+.landing-img {
+    width: 500px;
+    height: 350px;
+    left: 700px;
+}
+
+.img-mag{
+    width: 150px;
+    height: 75px;
+    background: #000;
+}
+
+.product {
+    border: solid grey 5px;
+}
+
+.product1 {
+    /* position: absolute; */
+    
+}
+
+.product2 {
+    /* position: absolute;
+    right: 0; */
+}
+
+.product3 {
+    /* position: absolute;
+    left: 0;
+    bottom: 0; */
+}
+
+.product4 {
+    /* position: absolute;
+    bottom: 0;
+    right: 0; */
+    
+}
+
+.products {
+    width: 50%;
+    height: 190px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* position: relative; */
+}
+
+.so-list-item {
+    display: inline-block;
+}
+
+.header .inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block4 {
+    position: absolute;
+    left: calc(100% / 3);
+    
+}
+
+.block5 {
+    position: absolute;
+    right: 0;
+}
+
+.section1 .block {
+   color: #fff;
+}
+
+.section1 {
+   background: #E7718B;
+}
+
+.section1 .inner {
+    display:flex;
+}
+
+.section2 .inner {
+    display: flex;
+    background: #fff;
+}
+
+.section2 .block {
+   width: calc(100%/3);
+}
+
+.section3 {
+    /* display: flex; */
+    /* position: relative; */
+    height: 450px;
+}
+
+.section3 .inner {
+    display:flex;
+    
+}
+
+.section3 .block {
+   /* position: absolute;
+    margin: 0 auto; */
+    width: 50%;
+}
+
+.section3 .aside {
+    width: 50%;
+    /* position: absolute;
+    right: 0; */
+}
+
+.footer{
+  background: #26292e;
+}
+
+.footer .inner {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer-nav a {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+.colophon-text {
+   color: #fff;
+}

@@ -1,0 +1,211 @@
+/* Header/Footer #26292E */
+ /* main #E7718B */
+
+ /* icons */
+
+
+ .icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+  }
+  
+  /* ==========================================
+  Single-colored icons can be modified like so:
+  .icon-name {
+    font-size: 32px;
+    color: red;
+  }
+  ========================================== */
+  
+.icon-facebook {
+      color: #000;
+      font-size: 15px;
+}
+
+.icon-twitter {
+    color: #000;
+    font-size: 15px;
+}
+
+.icon-rss {
+    color: #000;
+    font-size: 15px;
+}
+
+.icon-cloud{
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+        stroke-width: 0;
+        stroke: currentColor;
+        fill: currentColor;
+        padding: 5px;
+}
+
+.icon-bubbles {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    padding: 5px;
+  }
+ 
+.icon-star {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    padding: 5px;
+  }
+
+.button {
+   background: #424242;
+   color: #fff;
+   padding: 10px;
+}
+
+
+
+.header a {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 50%;
+}
+
+* { box-sizing: border-box;}
+
+.clear {
+    clear: both;
+}
+
+.header {
+    /* border: red 2px solid; */
+    background: #26292e;
+}
+
+h1 {
+    /* border: gold 2px solid; */
+    width: 300px;
+    color: #fff;
+    font-family:'butterfly kids', cursive;
+    float: left;
+}
+
+.top-nav {
+    /* border: orchid 2px solid; */
+    width: 200px;
+    float: right;
+    /* display: inline-block; */
+}
+
+.social-list {
+   width: 180px;
+   list-style: none;
+   /* border: red 2px solid; */
+   margin-top: 35px;
+}
+
+.landing-img {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.img-mag{
+    width: 150px;
+    height: 75px;
+    background: #000;
+}
+
+.product {
+    float: left;
+    margin-left: 10px;
+    border: solid grey 5px;
+}
+
+.products {
+    width: 75%;
+    margin: auto;
+}
+
+.so-list-item {
+    /* border: violet 2px solid; */
+    display: inline-block;
+}
+
+
+
+.aside {
+    width: 50%;
+    float: right;
+}
+
+.block6 {
+    width: 50%;
+    
+    float: left;
+}
+
+
+
+.section1 .block {
+    width: calc(100%/2);
+    float: left;
+    color: #fff;
+}
+
+.section2 .block {
+    width: calc(100%/3);
+    float: left;
+    padding: 10px;
+}
+
+.section1 {
+    background: #E7718B;
+    display: inline-block;
+    height: 400px;
+}
+
+.section2 {
+    background: #fff;
+    /* border: red 5px solid; */
+    /* width: 400px;
+    height:300px; */
+}
+
+.footer{
+    /* border: red 1px solid; */
+    background: #26292e;
+    
+}
+
+.footer-nav {
+    /* border:chartreuse 1px solid; */
+    list-style: none;
+    float: right;
+    margin-bottom: 30px;
+}
+
+.footer-nav a {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 50%; 
+}
+
+
+
+
+
+.colophon-text {
+    margin-top:38px;
+    width: 400px;
+    color: #fff;
+    float:left;
+}
